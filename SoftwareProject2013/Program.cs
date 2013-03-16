@@ -9,6 +9,8 @@ namespace SoftwareProject2013
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine(": O ");
         }
     }
 }
