@@ -11,6 +11,7 @@ namespace SoftwareProject2013
         {
 
             Console.WriteLine(": O ");
+            Console.WriteLine(": O ");
         }
     }
 }
